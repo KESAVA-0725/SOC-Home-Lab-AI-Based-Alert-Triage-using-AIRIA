@@ -10,6 +10,7 @@ The system simulates a real-world SOC workflow:
 - Send alerts to AI
 - Receive triage recommendations
 ## 🏗️ Architecture Overview
+![Image]()
 - Attacker Machine (Ubuntu) → Generates high traffic (ICMP flood)
 - Internal Server (Kali Linux) → Runs Python automation for detection
 - AIRIA AI Create Agent → Processes SOC playbook
