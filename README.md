@@ -50,8 +50,8 @@ A Python-based monitoring system was developed to:
 - Counts packets per source IP
 - If packet count > threshold → flagged as suspicious
   
-  ```python
-  THRESHOLD = 40
+   ```python
+   THRESHOLD = 40
   
 #### 🚨 Alert Generation
 
@@ -109,12 +109,12 @@ Displayed in Kali Terminal
 ```
 
 ### 🧠 Key Features
-✅ Real-time traffic monitoring
-✅ Automated alert generation
-✅ AI-driven SOC triage
-✅ MITRE ATT&CK mapping
-✅ Risk scoring system
-✅ End-to-end automation
+- ✅ Real-time traffic monitoring
+- ✅ Automated alert generation
+- ✅ AI-driven SOC triage
+- ✅ MITRE ATT&CK mapping
+- ✅ Risk scoring system
+- ✅ End-to-end automation
 
 ### 🛡️ SOC Concepts Implemented
 - Network Traffic Analysis
