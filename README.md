@@ -10,7 +10,7 @@ The system simulates a real-world SOC workflow:
 - Send alerts to AI
 - Receive triage recommendations
 ## 🏗️ Architecture Overview
-![Image]()
+![Image](https://github.com/KESAVA-0725/SOC-Home-Lab-AI-Based-Alert-Triage-using-AIRIA/blob/main/Documentation/SOC%20HOME%20LAB%20(AIRIA).png?raw=true)
 - Attacker Machine (Ubuntu) → Generates high traffic (ICMP flood)
 - Internal Server (Kali Linux) → Runs Python automation for detection
 - AIRIA AI Create Agent → Processes SOC playbook
